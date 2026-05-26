@@ -1,4 +1,4 @@
-```markdown
+
 # HermesApp
 
 Native Android app for [Hermes Agent](https://github.com/NousResearch/hermes-agent) with local inference. No more Termux hell.
@@ -306,7 +306,7 @@ This project is in early development. Here's how to help:
 ## Questions?
 
 Open an issue or DM me on Reddit: DarkWingStudio
-```
+
 
 ---
 
