@@ -259,7 +259,7 @@ Follow development:
 **Current status:** Planning → Building → Testing → Shipping
 
 Star this repo if you want local AI that doesn't suck on mobile. 🚀
-```
+
 
 ---
 
