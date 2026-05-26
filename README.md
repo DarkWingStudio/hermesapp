@@ -2,21 +2,15 @@
 
 Native Android app for [Hermes Agent](https://github.com/NousResearch/hermes-agent) with local inference. No more Termux hell.
 
-[
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-](LICENSE)
-[
 
 ![Phase](https://img.shields.io/badge/Phase-1%20MVP-orange)
 
-]()
-[
-
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-]()
 
 ---
 
